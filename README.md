@@ -16,4 +16,9 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 <b>Provided Mock-up Dashboard</b>
 ![image](https://github.com/DMSinha/Power-BI_Hospitality-Data-Analysis/assets/101706831/2fc44729-2cd2-4dea-8efc-47cfa2a94f0c)
 
+<br>
 
+WHERE I AM UPTO?<br>
+<img width="619" alt="image" src="https://github.com/DMSinha/Power-BI_Hospitality-Data-Analysis/assets/101706831/48005b8f-4269-4f89-95a0-318954a0bcd7">
+
+Further, I am working on aesthetics & layout of the report. Will update the dashboard, once finalised with other detailings.
